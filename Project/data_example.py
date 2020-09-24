@@ -20,4 +20,4 @@ user_dict = {
     "zs": {"account": 'zs', "username": "张三", "passwd": "123456", "score": "1", "course": set()}
 }
 
-course_list = {}
+course_list = set()
