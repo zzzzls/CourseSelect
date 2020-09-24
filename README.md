@@ -2,15 +2,11 @@
 
 >   合作开发的 :snake: Python 课程选择系统 
 
-![img](https://img.shields.io/badge/contributors-3-brightgreen.svg)![img](https://img.shields.io/badge/Language-Python-orange.svg)![img](https://img.shields.io/badge/build-2020/09/24-blueviolet.svg)![img](https://img.shields.io/badge/Version-0.0.1-blue.svg)
+![img](https://img.shields.io/badge/contributors-3-brightgreen.svg)&nbsp;&nbsp;&nbsp;![img](https://img.shields.io/badge/Language-Python-orange.svg)&nbsp;&nbsp;&nbsp;![img](https://img.shields.io/badge/build-2020/09/24-blueviolet.svg)&nbsp;&nbsp;&nbsp;![img](https://img.shields.io/badge/Version-0.0.1-blue.svg)
 
 
-
-![](./img/course.png)
-
-<h3 style='text-align:center'>课程选择系统</h3>
-
-
+<p align="center"><img src="./img/course.png"></img></p>
+<h3 align='center'>课程选择系统</h3>
 
 
 
