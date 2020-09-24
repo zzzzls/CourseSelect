@@ -54,10 +54,3 @@ Give the example
 ## Authors 关于作者
 
 pass
-
-查看更多关于这个项目的贡献者，请阅读 [contributors](https://gist.github.com/wangyan/6e8021667fe7f2082d153bed2d764618#)
-
-
-
-
-
